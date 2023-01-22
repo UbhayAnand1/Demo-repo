@@ -9,9 +9,9 @@ int main(){
     int a;
     int b;
 
-    int sum = a+b;
+    int mul = a*b;
 
-    cout<<sum<<endl;
+    cout<<mul<<endl;
 
     return 0;
 
