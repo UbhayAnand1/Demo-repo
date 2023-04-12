@@ -6,7 +6,7 @@ using namespace std;
 int main(){
 
     cout<<"Hello World!"<<endl;
-    int a;
+    int a; 
     int b;
 
     int mul = a*b;
