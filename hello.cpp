@@ -9,7 +9,7 @@ int main(){
     int a; 
     int b;
     int c;
-    int mul = a*b;
+    int mul = a*b*c;
 
     cout<<mul<<endl;
 
