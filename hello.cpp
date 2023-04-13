@@ -8,7 +8,7 @@ int main(){
     cout<<"Hello World!"<<endl;
     int a; 
     int b;
-
+    int c;
     int mul = a*b;
 
     cout<<mul<<endl;
