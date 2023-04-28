@@ -9,6 +9,8 @@ int main(){
     int c;
     int mul = a*b*c;
 
+    
+    
     cout<<mul<<endl;
 
     
